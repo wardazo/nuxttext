@@ -60,5 +60,12 @@ export default {
      ** You can extend webpack config here
      */
     extend(config, ctx) {}
+  },
+
+  pwa: {
+    manifest: {
+      name: 'My Awesome App',
+      short_name: 'fa'
+    }
   }
 }
