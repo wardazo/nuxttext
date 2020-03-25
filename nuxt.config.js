@@ -65,7 +65,7 @@ export default {
   pwa: {
     manifest: {
       name: 'My Awesome App',
-      short_name: 'fa'
+      short_name: 'fas'
     }
   }
 }
